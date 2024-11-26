@@ -34,11 +34,11 @@ Download the dataset and ensure it's in the required CSV format for compatibilit
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fuel-price-visualization
+   cd all_fuels_viz/code
    ```
 3. Run the application:
    ```bash
-   python main.py
+   python all_fuels_viz.py
    ```
 
 ## **How It Works**
