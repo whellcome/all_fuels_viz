@@ -30,7 +30,7 @@ Download the dataset and ensure it's in the required CSV format for compatibilit
 ### **Running the Application**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fuel-price-visualization.git
+   git clone git@github.com:whellcome/all_fuels_viz.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -54,7 +54,7 @@ Download the dataset and ensure it's in the required CSV format for compatibilit
 4. View and analyze the trends in real-time.
 
 ## **Screenshots**
-![Screenshot of GUI](Insert+Screenshot+Here)  
+![Screenshot of GUI](/data/all_fuels_viz_scr_00.jpg)  
 *Example: Comparison of Natural Gas and Crude Oil Prices*
 
 ## **Planned Features**
