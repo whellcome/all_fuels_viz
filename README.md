@@ -54,7 +54,7 @@ Download the dataset and ensure it's in the required CSV format for compatibilit
 4. View and analyze the trends in real-time.
 
 ## **Screenshots**
-![Screenshot of GUI](/data/all_fuels_viz_scr_00.jpg)  
+![Screenshot of GUI](https://raw.githubusercontent.com/whellcome/all_fuels_viz/7580a6b715d449b60e18281a1bb74366f7fbdc0a/all_fuels_viz_scr_00.jpg)  
 *Example: Comparison of Natural Gas and Crude Oil Prices*
 
 ## **Planned Features**
